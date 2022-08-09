@@ -1,0 +1,7 @@
+Este es un documento de git y github
+
+Esta es la historia de Angel Jimenez
+
+Angel Jimenez tiene 43 años y vive en Colombia
+
+Hoy hablaremos de su historia para git.
