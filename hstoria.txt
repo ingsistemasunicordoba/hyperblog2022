@@ -6,3 +6,5 @@ Angel Jimenez tiene 44 años y vive en Colombia
 naciendo en Montería
 
 Hoy hablaremos de su historia para git.
+
+Soy alto y realmente en cámara también lo soy.
